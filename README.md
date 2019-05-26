@@ -5,7 +5,7 @@ Não consegui contato com o autor original, então criei esse projeto separado.
 ## Install 
 
 ```
-pip install ipeaData
+pip install pyIpeaData
 ```
 
 ## Use
